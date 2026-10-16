@@ -30,3 +30,6 @@ A WPF chatbot (C# / .NET 8) that teaches users how to stay safe online.
 - `MainWindow.xaml / .xaml.cs`: GUI and message handling
 - `Bot/chatbot.cs`: chatbot logic, memory, sentiment, responses
 - `Audio/greeting.wav`: voice greeting
+
+  ## Changes from Part 1
+- The ASCII art logo was redesigned for the GUI version (padlock and banner design). Part 1 used a simpler logo.
